@@ -1,3 +1,7 @@
+# THE CODE IS WRITTEN BY DANIEL SUSSMAN ASSISTANT PROFESSOR AT BU
+
+
+
 #Generates ER-correlated pair of graphs (G,H), where G is the background (n-vertex graph)
 #and H is its induced m-vertex subgraph (without vertex permutation).
 
